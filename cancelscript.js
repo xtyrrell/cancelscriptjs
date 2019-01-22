@@ -21,8 +21,6 @@ function cancelScript(source) {
 
       process.exit(0)
     }
-
-    i++
   }
 }
 
